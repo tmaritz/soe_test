@@ -1,0 +1,8 @@
+C:\Users\tmaritz\Documents\GitHub\JustEatSOETest\JustEatSOETest\JustEatSOETest\bin\Debug\JustEatSOETest.exe.config
+C:\Users\tmaritz\Documents\GitHub\JustEatSOETest\JustEatSOETest\JustEatSOETest\obj\Debug\JustEatSOETest.csprojResolveAssemblyReference.cache
+C:\Users\tmaritz\Documents\GitHub\JustEatSOETest\JustEatSOETest\JustEatSOETest\bin\Debug\JustEatSOETest.exe
+C:\Users\tmaritz\Documents\GitHub\JustEatSOETest\JustEatSOETest\JustEatSOETest\bin\Debug\JustEatSOETest.pdb
+C:\Users\tmaritz\Documents\GitHub\JustEatSOETest\JustEatSOETest\JustEatSOETest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tmaritz\Documents\GitHub\JustEatSOETest\JustEatSOETest\JustEatSOETest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tmaritz\Documents\GitHub\JustEatSOETest\JustEatSOETest\JustEatSOETest\obj\Debug\JustEatSOETest.exe
+C:\Users\tmaritz\Documents\GitHub\JustEatSOETest\JustEatSOETest\JustEatSOETest\obj\Debug\JustEatSOETest.pdb
